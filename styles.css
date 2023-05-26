@@ -12,11 +12,11 @@
 }
 
 ::-webkit-scrollbar-track {
-  background-color: #2f2f33;
+  background-color: #49494d;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #525257;
+  background-color: #303031;
 }
 
 @keyframes entering {
